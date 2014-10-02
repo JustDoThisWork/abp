@@ -1,3 +1,7 @@
+[Adblock Plus 2.1]
+! Version: 201410021353
+! Title: custom
+! email:qzs1008@gmail.com
 ##object[type="application/x-shockwave-flash"]
 dota.uuu9.com##.wxbox
 dota2.uuu9.com##.wxbox
