@@ -5,6 +5,7 @@
 !start!
 !!tieba/baidu
 tieba.baidu.com###encourage_entry
+tieba.baidu.com##.u9_aside
 tieba.baidu.com###forum_recommend
 tieba.baidu.com##.encourage_entry.region_bright
 tieba.baidu.com##.icon_tbworld.tbworld_lv2_gray
@@ -82,7 +83,7 @@ tieba.baidu.com##[id^="search_"],[id^="j_ten_years"],.l_banner,[class*="game"],[
 !!dotamax
 dotamax.net##object[type="application/x-shockwave-flash"]
 !!uuu9
-dota*.uuu9.com##.wxbox
+uuu9.com##.wxbox
 http://bdimg.share.baidu.com/static/images/r0.gif
 uuu9.com##.r_topnav_box
 !!njit
