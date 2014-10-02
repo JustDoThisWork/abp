@@ -1,0 +1,82 @@
+##object[type="application/x-shockwave-flash"]
+dota.uuu9.com##.wxbox
+dota2.uuu9.com##.wxbox
+http://bdimg.share.baidu.com/static/images/r0.gif
+http://image.yy.com/yysnapshot/033836e371ed9c278451a03bbf1195965e1399c4?imageview/0/h/105
+tieba.baidu.com###encourage_entry
+tieba.baidu.com###forum_recommend
+tieba.baidu.com##.encourage_entry.region_bright
+tieba.baidu.com##.icon_tbworld.tbworld_lv2_gray
+tieba.baidu.com##.profile_right.user_score
+tieba.baidu.com##.split
+tieba.baidu.com##.tbui_aside_fbar_button.tbui_fbar_lab
+tieba.baidu.com##.tbui_aside_fbar_button.tbui_fbar_props
+tieba.baidu.com##.tbui_aside_fbar_button.tbui_fbar_share
+tieba.baidu.com##.tbui_aside_fbar_button.tbui_fbar_top
+tieba.baidu.com##.u_menu_item.u_menu_app
+tieba.baidu.com##.u_menu_item.u_menu_baiduPrivilege
+tieba.baidu.com##.u_menu_item.u_menu_tbmall
+tieba.baidu.com##.u_menu_item.u_menu_wallet
+tieba.baidu.com##A[class="rand_gift randstyle_3"]
+tieba.baidu.com##A[id="replyBusinessImg"]
+tieba.baidu.com##DIV[class="cont_sign_banner"]
+tieba.baidu.com##DIV[class="dialogJ dialogJfix dialogJshadow"]
+tieba.baidu.com##DIV[class="dialogJmodal"]
+tieba.baidu.com##DIV[class="fifa_card_foottips"]
+tieba.baidu.com##DIV[class="fifa_card_title"]
+tieba.baidu.com##DIV[class="frs_qunzu_wrpa"]
+tieba.baidu.com##DIV[class="game_frs_step1 j_game_frs_step1 clearfix"]
+tieba.baidu.com##DIV[class="game_rank game_rank_theme1"]
+tieba.baidu.com##DIV[class="game_rank game_rank_theme2"]
+tieba.baidu.com##DIV[class="game_spread_thread"]
+tieba.baidu.com##DIV[class="guessing_watermark"]
+tieba.baidu.com##DIV[class="hgame_mod_theme1"]
+tieba.baidu.com##DIV[class="hgame_mod_theme2"]
+tieba.baidu.com##DIV[class="icon_wrap icon_wrap_theme1 frs_bright_icons"]
+tieba.baidu.com##DIV[class="icon_wrap icon_wrap_theme2 d_pb_icons"]
+tieba.baidu.com##DIV[class="icon_wrap icon_wrap_theme2 frs_bright_icons"]
+tieba.baidu.com##DIV[class="lot_wrap lot_wrap_nobg"]
+tieba.baidu.com##DIV[class="lot_wrap"]
+tieba.baidu.com##DIV[class="per_list j_per_list per_list_index"]
+tieba.baidu.com##DIV[class="r-top-sec"]
+tieba.baidu.com##DIV[class="tb_paper_wrap"]
+tieba.baidu.com##DIV[class="top-sec clearfix"]
+tieba.baidu.com##DIV[class="u_menu_item u_menu_tshow"]
+tieba.baidu.com##DIV[class="worldcup_rank"]
+tieba.baidu.com##DIV[id="BAIDU_CLB_AD_923536"][class="clearfix BAIDU_CLB_AD BAIDU_CLB_AD_pb"]
+tieba.baidu.com##DIV[id="fifa_card_frs-aside"]
+tieba.baidu.com##DIV[id="fifa_card_frs-aside"][class="fifa_card fifa_card_sale_zhongce auto_center"]
+tieba.baidu.com##DIV[id="fifa_card_pb-aside"]
+tieba.baidu.com##DIV[id="fifa_card_pb-aside"][class="fifa_card fifa_card_sale_tieba auto_center"]
+tieba.baidu.com##DIV[id="fifa_card_pb-aside"][class="fifa_card fifa_card_sale_zhongce auto_center"]
+tieba.baidu.com##DIV[id="game_couplet_pb_left"]
+tieba.baidu.com##DIV[id="game_couplet_pb_right"]
+tieba.baidu.com##DIV[id="guide_fc"][class="guidance_fc"]
+tieba.baidu.com##DIV[id="j_ten_years"]
+tieba.baidu.com##DIV[id="j_worldcup_info_banner"]
+tieba.baidu.com##DIV[id="lecai_lottery"][class="leicai_lottery lecai_lottery_frs"]
+tieba.baidu.com##DIV[id="lecai_lottery"][class="leicai_lottery lecai_lottery_pb"]
+tieba.baidu.com##DIV[id="lucky_lottery"][class="lucky_lottery lucky_lottery_frs"]
+tieba.baidu.com##DIV[id="pb_adbanner"][class="l_banner banner_wangmeng_theme_2"]
+tieba.baidu.com##DIV[id="pc2client"][class="pc2client"]
+tieba.baidu.com##DIV[id="plat_act_wrapper"][class="platact_bigouter"]
+tieba.baidu.com##DIV[id="pop_animate"]
+tieba.baidu.com##DIV[id="search_button_wrapper"][class="search_button_wrapper"]
+tieba.baidu.com##DIV[id="spreadad_2"]
+tieba.baidu.com##DIV[id="spreadad_NAV_TOP"]
+tieba.baidu.com##DIV[id="ssq_lottery"][class="ssq_lottery"]
+tieba.baidu.com##DIV[id="tbmall_score_region"][class="region_bright "]
+tieba.baidu.com##DIV[id="union_mod"][class="union_mod"]
+tieba.baidu.com##DIV[id="worldcup_guess_frs_wrap"][class="worldcup_guess_frs_wrap"]
+tieba.baidu.com##IFRAME[class="pb_lecai_iframe"]
+tieba.baidu.com##IFRAME[src="http://tieba.lecai.com/page/zhuanti/baidu/tieba_lottery_w738.shtml?fname=%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85&fid=110019"]
+tieba.baidu.com##IFRAME[src="http://tieba.lecai.com/page/zhuanti/baidu/tieba_lottery_w738.shtml?fname=%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8&fid=1441624"]
+tieba.baidu.com##IMG[src="/tb/static-common/img/poster/figure.gif"]
+tieba.baidu.com##LI[class="frs_game_spread"]
+tieba.baidu.com##LI[class="tbui_aside_fbar_button tbui_fbar_game"]
+tieba.baidu.com##LI[class="tbui_aside_fbar_button tbui_fbar_square"]
+tieba.baidu.com##LI[id="BAIDU_CLB_AD_923533"][class="clearfix BAIDU_CLB_AD BAIDU_CLB_AD_frs"]
+tieba.baidu.com##LI[id="spreadad_3"][class="clearfix spreadad spreadad_0001"]
+tieba.baidu.com##[id^="search_"],[id^="j_ten_years"],.l_banner,[class*="game"],[class*="props"],[class*="share"],[class*="lottery"],[class^="time_gift"],[class*="medal"],[class*="v2_tab last new_tab new_tab_normal"],[class*="lecai"],#aside_ad,#ueg_policy_open,.tb_poster_placeholder,td[style="width: 75%;"],.tbsug_break,.tbsug_tip,.rich_rank_mod,.u_tbmall,.j_mobile,.split,.icon_wrap,.head_skin_btn,.d_nameplate,.sign_replenish_tip,.sign_rights,.sign_title_text_bright,.user_score,.icon_group
+uuu9.com##.r_topnav_box
+xhbbs.njit.edu.cn##.comiis_adbox.comiis_imgborder
